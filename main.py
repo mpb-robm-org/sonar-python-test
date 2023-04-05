@@ -1,5 +1,5 @@
 def main():
-    print("hello world!")
+    pass
 
 Class MyClass():
     string name = ''
