@@ -1,5 +1,4 @@
 def main():
-    #this function is empty
     print("hello world!")
 
 Class MyClass():
