@@ -1,7 +1,7 @@
 def main():
-    if true:
-        if true:
-            if false and true:
+    if True:
+        if True:
+            if False and True:
                 return "hello"
 
 if __name__ == "__main__":
