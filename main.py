@@ -3,10 +3,10 @@ def main():
     print("hello world!")
 
 Class MyClass():
-    name = ''
+    string name = ''
 
 def MyClass(name):
     name = name
 
 if __name__ == "__main__":
-    name = MyClass("Billy")
+    string name = MyClass("Billy")
