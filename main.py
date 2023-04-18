@@ -1,8 +1,7 @@
 class UnusedClass:
-    val
-    
+
     def UnusedClass(val = None):
-        val = val
+        self.val = val
 
 def main():
     return "hello"
