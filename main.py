@@ -1,5 +1,10 @@
+class UnusedClass:
+
+    def UnusedClass(val = None):
+        self.val = val
+
 def main():
-    print("hello world!")
+    return "hello"
 
 if __name__ == "__main__":
     main()
